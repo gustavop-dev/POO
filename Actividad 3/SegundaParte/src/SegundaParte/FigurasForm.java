@@ -4,10 +4,6 @@
  */
 package SegundaParte;
 
-/**
- *
- * @author juanv
- */
 public class FigurasForm extends javax.swing.JFrame {
 
     /**
