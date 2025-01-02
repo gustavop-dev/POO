@@ -2,10 +2,6 @@
 
 package SegundaParte;
 
-/**
- *
- * @author juanv
- */
 public class SegundaParte {
 
     public static void main(String[] args) {
