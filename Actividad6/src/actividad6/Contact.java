@@ -1,4 +1,4 @@
-package actividad4;
+package actividad6;
 
 public class Contact {
     private String id;

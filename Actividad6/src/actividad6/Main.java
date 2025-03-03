@@ -1,4 +1,4 @@
-package actividad4;
+package actividad6;
 
 import javax.swing.SwingUtilities;
 
